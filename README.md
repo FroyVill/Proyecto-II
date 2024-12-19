@@ -59,5 +59,6 @@ El sistema permite realizar las siguientes operaciones:
 - POST /inscripciones/: Inscribe a un alumno en una materia.
 - DELETE /inscripciones/{inscripcion_id}: Elimina una inscripción.
 
-  [![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=AqNzjH4vXbc&ab_channel=VillegasCastroFroylanAdair))
+# Link del video
+https://www.youtube.com/watch?v=AqNzjH4vXbc&ab_channel=VillegasCastroFroylanAdair
 
