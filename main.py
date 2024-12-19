@@ -1,3 +1,20 @@
+'''
+=====================================
+Proyecto 2 - Sistemas distribuidos
+=====================================
+
+Alumnos:
+- Aurelio Flores Nava
+- Héctor Alejandro Pérez Cornejo
+- Froylan Adair Villegas Castro
+- Diego Juan Manuel Salvador Garcia Reyna
+- Isay Montejano Quirino
+- Cesar Mocivais Aguilar
+- Daniel Rodriguez Burnes
+- Aurelio Flores Nava
+
+'''
+
 # Crear y manejar excepciones
 from fastapi import FastAPI, HTTPException, UploadFile, File, Depends
 from typing import Optional, List
@@ -11,7 +28,7 @@ from bson import ObjectId
 import boto3
 
 # Configuración de la conexión con MongoDB
-MONGO_URI = 'mongodb://localhost:27018'
+MONGO_URI = 'mongodb://localhost:27017'
 # Ejecutar el cliente de base de datos
 client = motor_asyncio.AsyncIOMotorClient(MONGO_URI)
 db = client['upiiz']
