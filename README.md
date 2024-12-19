@@ -7,7 +7,6 @@
 - Isay Montejano Quirino
 - Cesar Mocivais Aguilar
 - Daniel Rodriguez Burnes
-- Maximiliano Lugo Zabala
 - Aurelio Flores Nava
 # Sistema de Gestión Académica
 
